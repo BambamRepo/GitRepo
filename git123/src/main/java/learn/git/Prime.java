@@ -7,7 +7,8 @@ public class Prime {
 		for(int i=1;i<=n;i++)
 		{
 			//this is done by team B
-		  	//this is done by team B 
+		  	//this is done by team B
+			//Now team A make some progress
 		}
 
 	}
